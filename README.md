@@ -4,7 +4,7 @@
 
 ## Introduction
 
-BTCPay Server is an open-source, self-hosted payment processor for Bitcoin and other cryptocurrencies.
+BTCPay Server is an open-source, self-hosted payment processor for Bitcoin and other cryptocurrencies test.
 
 If you have trouble using BTCPay Server, consider joining the [communities listed on the official website](https://btcpayserver.org/#communityCTA) to get help from community members.
 
